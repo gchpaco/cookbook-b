@@ -1,0 +1,30 @@
+{
+    "suggestions": {
+    },
+    "maintainer_email": "graham@rightscale.com",
+    "conflicting": {
+    },
+    "providing": {
+    },
+    "dependencies": {
+    },
+    "license": "MIT",
+    "platforms": {
+    },
+    "version": "0.1.0",
+    "attributes": {
+    },
+    "replacing": {
+    },
+    "recipes": {
+      "dependent": "Dependent thing"
+    },
+    "groupings": {
+    },
+    "long_description": "",
+    "description": "Test some difficulties we were having",
+    "name": "dependent",
+    "recommendations": {
+    },
+    "maintainer": "Graham Hughes"
+  }
